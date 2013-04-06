@@ -18,17 +18,16 @@ HOW TO PLAY:
 	Use the appropriate character to solve
 	the puzzles to complete the levels
 
-DEVELOPERS:
-	
-	Ozan Yildiz
-	
-	Efe Alacamli
-
-	Can Aygin
-	
 VERSION INFO:
+
 	Unfortunately, the source code is not the final version
 	and it is lost. This version of source code includes all
 	the game mechanics and levels; however it doesn't include 
 	some of the textures.
 	Webplayer runs the final version of the game.
+
+DEVELOPERS:
+	
+	Ozan Yildiz
+	Efe Alacamli
+	Can Aygin
